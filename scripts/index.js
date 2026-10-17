@@ -41,14 +41,14 @@ function displayDataTable() {
             + "</td>" 
             + "<td>" 
             + x[i].getElementsByTagName("point")[0].textContent 
-            + "</td>" 
-              + "<img>" 
-            + x[i].getElementsByTagName("image")[0].textContent 
-            + "</img>" 
+            + "</td>"  
+                document.getElementById("image").innerHTML = "<img src=" 
+            + x[i].getElementsByTagName("image")[0].textContent + `width="100" height="100" alt="Image du Pokemon"` +">";
               + "<td>" 
             + x[i].getElementsByTagName("explication")[0].textContent 
             + "</td>" 
             + "</tr>";
+
         }
         
         document.getElementById("data").innerHTML = questionnaire;

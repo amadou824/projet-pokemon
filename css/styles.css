@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+container {
+    text-align: center;
+    margin-top: 50px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-decoration-color: red;
+}
+
+demo {
+    margin-top: 20px;
+    text-align: center;
+}
+
+data {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 80%;
+    
+}
