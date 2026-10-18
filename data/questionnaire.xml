@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <donnee>
-    <!-- Question 1 -->
     <question>
         <id>1</id>
         <contenu>Combien d'énergies incolores sont requises pour battre en retraite si le coût indiqué est de 2 icônes d'Énergie Incolore ?</contenu>
@@ -12,8 +11,6 @@
         <image>https://tcgdex.net</image>
         <explication>Chaque symbole incolore présent dans le coût de retraite représente une carte Énergie individuelle à défausser.</explication>
     </question>
-
-    <!-- Question 2 -->
     <question>
         <id>2</id>
         <contenu>Quel type de carte permet de chercher un Pokémon de base dans son deck lors de la configuration du jeu ?</contenu>
@@ -25,8 +22,6 @@
         <image>https://tcgdex.net</image>
         <explication>La carte Objet Faibl'Ball (Nest Ball) vous permet de chercher un Pokémon de base dans votre deck et de le placer directement sur votre Banc.</explication>
     </question>
-
-    <!-- Question 3 -->
     <question>
         <id>3</id>
         <contenu>Quelle est la zone de jeu maximale autorisée pour les Pokémon sur le Banc d'un joueur en format standard ?</contenu>
@@ -38,8 +33,6 @@
         <image>https://tcgdex.net</image>
         <explication>Sauf effet de carte spécifique (comme Éthernatos VMAX), la taille maximale réglementaire du Banc est de 5 Pokémon.</explication>
     </question>
-
-    <!-- Question 4 -->
     <question>
         <id>4</id>
         <contenu>Combien de cartes Récompense un joueur pioche-t-il lorsqu'il met K.O. un Pokémon-VMAX ou Pokémon-ex Évolution Phase 2 ?</contenu>
@@ -51,8 +44,6 @@
         <image>https://tcgdex.net</image>
         <explication>Les Pokémon dotés de la règle VMAX octroient 3 cartes Récompense à l'adversaire lorsqu'ils sont mis K.O.</explication>
     </question>
-
-    <!-- Question 5 -->
     <question>
         <id>5</id>
         <contenu>Par quoi commence une partie de JCC Pokémon juste après avoir mélangé son deck ?</contenu>
@@ -64,8 +55,6 @@
         <image>https://tcgdex.net</image>
         <explication>Chaque joueur commence par piocher une main de départ de 7 cartes avant de vérifier s'il possède un Pokémon de base.</explication>
     </question>
-
-    <!-- Question 6 -->
     <question>
         <id>6</id>
         <contenu>Que se passe-t-il si un Pokémon est affecté par l'état Spécial "Asleep" (Endormi) ?</contenu>
@@ -77,8 +66,6 @@
         <image>https://tcgdex.net</image>
         <explication>Un Pokémon Endormi est tourné vers la gauche (180°). Il ne peut pas attaquer ni battre en retraite tant qu'il dort.</explication>
     </question>
-
-    <!-- Question 7 -->
     <question>
         <id>7</id>
         <contenu>Quelle carte Supporter emblématique permet à chaque joueur de mélanger sa main avec son deck et de piocher 4 ou 6 cartes selon sa situation ?</contenu>
@@ -90,10 +77,8 @@
         <image>https://tcgdex.net</image>
         <explication>La carte d'Iono (ou Mireille) force le mélange des mains sous le deck et la pioche égale aux cartes Récompense restantes.</explication>
     </question>
-
-    <!-- Question 8 -->
     <question>
-        <id>8</id>
+        <id>8</id> 
         <contenu>Quel type d'Énergie peut remplacer n'importe quel symbole d'énergie requis pour une attaque ?</contenu>
         <reponse1>Énergie Incolore</reponse1>
         <reponse2>Énergie Multicolore / Arc-en-ciel</reponse2>
@@ -103,8 +88,6 @@
         <image>https://tcgdex.net</image>
         <explication>Les Énergies spéciales comme l'Énergie Lumineuse ou Arc-en-ciel fournissent tous les types d'énergie à la fois, comblant n'importe quelle exigence.</explication>
     </question>
-
-    <!-- Question 9 -->
     <question>
         <id>9</id>
         <contenu>Combien de cartes Supporter un joueur peut-il jouer par tour ?</contenu>
@@ -116,8 +99,6 @@
         <image>https://tcgdex.net</image>
         <explication>Les règles du jeu limitent strictement l'utilisation des cartes de type Supporter à une seule par tour de joueur.</explication>
     </question>
-
-    <!-- Question 10 -->
     <question>
         <id>10</id>
         <contenu>Quelle mécanique de jeu du bloc Épée et Bouclier utilise des Pokémon qui n'ont pas besoin d'évoluer et octroient 2 récompenses ?</contenu>
@@ -129,8 +110,6 @@
         <image>https://tcgdex.net</image>
         <explication>Les Pokémon-V sont des Pokémon de base puissants apparus dans la série Épée et Bouclier offrant deux cartes Récompense s'ils subissent un K.O.</explication>
     </question>
-
-    <!-- Question 11 -->
     <question>
         <id>11</id>
         <contenu>Si un Pokémon a une Faiblesse au type Feu marquée "x2", une attaque de 40 dégâts lui infligera :</contenu>
@@ -142,8 +121,6 @@
         <image>https://tcgdex.net</image>
         <explication>La faiblesse multiplie les dégâts infligés au Pokémon Défenseur par la valeur indiquée (ici multiplié par 2).</explication>
     </question>
-
-    <!-- Question 12 -->
     <question>
         <id>12</id>
         <contenu>Où vont les cartes Pokémon éliminées ou les cartes d'objets utilisées ?</contenu>
@@ -155,8 +132,6 @@
         <image>https://tcgdex.net</image>
         <explication>Toutes les cartes consommées ou issues de Pokémon mis K.O. rejoignent par défaut la pile de défausse.</explication>
     </question>
-
-    <!-- Question 13 -->
     <question>
         <id>13</id>
         <contenu>Peut-on faire évoluer un Pokémon dès le premier tour où il est posé en jeu ?</contenu>
@@ -168,8 +143,6 @@
         <image>https://tcgdex.net</image>
         <explication>Un Pokémon ne peut pas évoluer durant le tour où il est mis en jeu, ni durant le tout premier tour de la partie.</explication>
     </question>
-
-    <!-- Question 14 -->
     <question>
         <id>14</id>
         <contenu>Qu'est-ce qui caractérise la zone Perdue (Lost Zone) comparée à la Défausse ?</contenu>
@@ -181,8 +154,6 @@
         <image>https://tcgdex.net</image>
         <explication>La Zone Perdue agit comme une défausse définitive d'où aucune carte ne peut être récupérée par des effets classiques.</explication>
     </question>
-
-    <!-- Question 15 -->
     <question>
         <id>15</id>
         <contenu>De combien de cartes doit obligatoirement être composé un deck légal pour les tournois ?</contenu>
@@ -194,5 +165,4 @@
         <image>https://tcgdex.net</image>
         <explication>Un deck de jeu de cartes à collectionner Pokémon valide doit contenir précisément 60 cartes, ni plus ni moins.</explication>
     </question>
-
 </donnee>
