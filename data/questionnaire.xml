@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <donnee>
+    <!-- THÉMATIQUE EAU -->
     <question>
         <id>1</id>
         <contenu>Combien d'énergies incolores sont requises pour battre en retraite si le coût indiqué est de 2 icônes d'Énergie Incolore ?</contenu>
@@ -8,19 +9,21 @@
         <reponse3>3</reponse3>
         <bonneReponse>2</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
+        <image>https://assets.tcgdex.net/fr/base/base1/58/high.png</image>
         <explication>Chaque symbole incolore présent dans le coût de retraite représente une carte Énergie individuelle à défausser.</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
         <id>2</id>
-        <contenu>Quel type de carte permet de chercher un Pokémon de base dans son deck lors de la configuration du jeu ?</contenu>
-        <reponse1>Faibl'Ball</reponse1>
-        <reponse2>Pique-Niqueur</reponse2>
-        <reponse3>Multi Exp</reponse3>
-        <bonneReponse>Faibl'Ball</bonneReponse>
+        <contenu>Dans le JCC, quel type d'Énergie est représenté par une goutte bleue ?</contenu>
+        <reponse1>Énergie Psy</reponse1>
+        <reponse2>Énergie Eau</reponse2>
+        <reponse3>Énergie Obscurité</reponse3>
+        <bonneReponse>Énergie Eau</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>La carte Objet Faibl'Ball (Nest Ball) vous permet de chercher un Pokémon de base dans votre deck et de le placer directement sur votre Banc.</explication>
+        <image>https://assets.tcgdex.net/fr/base/base1/102/high.png</image>
+        <explication>L'Énergie Eau est symbolisée par une goutte d'eau bleue et est utilisée par les Pokémon de type Eau et Glace.</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
         <id>3</id>
@@ -30,139 +33,581 @@
         <reponse3>6 Pokémon</reponse3>
         <bonneReponse>5 Pokémon</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Sauf effet de carte spécifique (comme Éthernatos VMAX), la taille maximale réglementaire du Banc est de 5 Pokémon.</explication>
+        <image>https://assets.tcgdex.net/fr/base/base1/63/high.png</image>
+        <explication>Sauf effet de carte spécifique, la taille maximale réglementaire du Banc est de 5 Pokémon.</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
         <id>4</id>
-        <contenu>Combien de cartes Récompense un joueur pioche-t-il lorsqu'il met K.O. un Pokémon-VMAX ou Pokémon-ex Évolution Phase 2 ?</contenu>
-        <reponse1>2</reponse1>
-        <reponse2>3</reponse2>
-        <reponse3>4</reponse3>
-        <bonneReponse>3</bonneReponse>
+        <contenu>Quel Pokémon est la mascotte officielle de la version Bleue ?</contenu>
+        <reponse1>Florizarre</reponse1>
+        <reponse2>Tortank</reponse2>
+        <reponse3>Léviator</reponse3>
+        <bonneReponse>Tortank</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Les Pokémon dotés de la règle VMAX octroient 3 cartes Récompense à l'adversaire lorsqu'ils sont mis K.O.</explication>
+        <image>https://assets.tcgdex.net/fr/base/base1/2/high.png</image>
+        <explication>Tortank, l'évolution finale de Carapuce, figure sur la jaquette de Pokémon Version Bleue.</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
         <id>5</id>
-        <contenu>Par quoi commence une partie de JCC Pokémon juste après avoir mélangé son deck ?</contenu>
-        <reponse1>Piocher 7 cartes</reponse1>
-        <reponse2>Placer ses Récompenses</reponse2>
-        <reponse3>Lancer une pièce</reponse3>
-        <bonneReponse>Piocher 7 cartes</bonneReponse>
+        <contenu>Dans le JCC, que représente 1 marqueur de dégâts standard ?</contenu>
+        <reponse1>10 dégâts</reponse1>
+        <reponse2>20 dégâts</reponse2>
+        <reponse3>50 dégâts</reponse3>
+        <bonneReponse>10 dégâts</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Chaque joueur commence par piocher une main de départ de 7 cartes avant de vérifier s'il possède un Pokémon de base.</explication>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png</image>
+        <explication>Chaque petit marqueur posé sur une carte représente 10 points de dégâts subis.</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
         <id>6</id>
-        <contenu>Que se passe-t-il si un Pokémon est affecté par l'état Spécial "Asleep" (Endormi) ?</contenu>
-        <reponse1>Il bat en retraite gratuitement</reponse1>
-        <reponse2>Il est tourné à 90 degrés vers la droite</reponse2>
-        <reponse3>Il est tourné à 180 degrés et ne peut ni attaquer ni battre en retraite</reponse3>
-        <bonneReponse>Il est tourné à 180 degrés et ne peut ni attaquer ni battre en retraite</bonneReponse>
+        <contenu>Lequel de ces Pokémon Eau est célèbre pour sa futilité avant d'évoluer ?</contenu>
+        <reponse1>Barpau</reponse1>
+        <reponse2>Magicarpe</reponse2>
+        <reponse3>Poissirène</reponse3>
+        <bonneReponse>Magicarpe</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Un Pokémon Endormi est tourné vers la gauche (180°). Il ne peut pas attaquer ni battre en retraite tant qu'il dort.</explication>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png</image>
+        <explication>Magicarpe est connu pour son attaque Trempette qui ne fait absolument rien, avant de devenir le redoutable Léviator.</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
         <id>7</id>
-        <contenu>Quelle carte Supporter emblématique permet à chaque joueur de mélanger sa main avec son deck et de piocher 4 ou 6 cartes selon sa situation ?</contenu>
-        <reponse1>Recherche Professorale</reponse1>
-        <reponse2>Clara</reponse2>
-        <reponse3>Aspirateur Perdu</reponse3>
-        <bonneReponse>Mireille</bonneReponse>
+        <contenu>Quel objet de base permet de soigner 30 dégâts à l'un de ses Pokémon ?</contenu>
+        <reponse1>Potion</reponse1>
+        <reponse2>Super Potion</reponse2>
+        <reponse3>Hyper Potion</reponse3>
+        <bonneReponse>Potion</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>La carte d'Iono (ou Mireille) force le mélange des mains sous le deck et la pioche égale aux cartes Récompense restantes.</explication>
+        <image>https://assets.tcgdex.net/fr/base/base1/94/high.png</image>
+        <explication>La carte Objet Potion de base soigne 30 dégâts (soit 3 marqueurs) au Pokémon choisi.</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
-        <id>8</id> 
-        <contenu>Quel type d'Énergie peut remplacer n'importe quel symbole d'énergie requis pour une attaque ?</contenu>
-        <reponse1>Énergie Incolore</reponse1>
-        <reponse2>Énergie Multicolore / Arc-en-ciel</reponse2>
-        <reponse3>Énergie Feu</reponse3>
-        <bonneReponse>Énergie Multicolore / Arc-en-ciel</bonneReponse>
+        <id>8</id>
+        <contenu>Quel Pokémon Légendaire règne sur les océans et a créé les mers ?</contenu>
+        <reponse1>Lugia</reponse1>
+        <reponse2>Kyogre</reponse2>
+        <reponse3>Palkia</reponse3>
+        <bonneReponse>Kyogre</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Les Énergies spéciales comme l'Énergie Lumineuse ou Arc-en-ciel fournissent tous les types d'énergie à la fois, comblant n'importe quelle exigence.</explication>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png</image>
+        <explication>Dans la mythologie de Hoenn, Kyogre est le créateur des mers et des océans.</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
         <id>9</id>
-        <contenu>Combien de cartes Supporter un joueur peut-il jouer par tour ?</contenu>
+        <contenu>Qui est le Pokémon de départ (starter) de type Eau de la région de Kalos ?</contenu>
+        <reponse1>Tiplouf</reponse1>
+        <reponse2>Moustillon</reponse2>
+        <reponse3>Grenousse</reponse3>
+        <bonneReponse>Grenousse</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png</image>
+        <explication>Grenousse évolue en Croâporal puis en Amphinobi.</explication>
+        <thematique>Eau</thematique>
+    </question>
+    <question>
+        <id>10</id>
+        <contenu>Quelle est la faiblesse la plus courante des Pokémon de type Eau dans le JCC ?</contenu>
+        <reponse1>Feu et Combat</reponse1>
+        <reponse2>Électrik et Plante</reponse2>
+        <reponse3>Psy et Obscurité</reponse3>
+        <bonneReponse>Électrik et Plante</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png</image>
+        <explication>Pour respecter les jeux vidéo, les cartes de type Eau craignent généralement les types Électrik ou Plante.</explication>
+        <thematique>Eau</thematique>
+    </question>
+    <question>
+        <id>11</id>
+        <contenu>Combien d'énergies de base un joueur peut-il attacher de sa main à ses Pokémon par tour ?</contenu>
         <reponse1>Autant qu'il veut</reponse1>
         <reponse2>Maximum 2</reponse2>
         <reponse3>Seulement 1</reponse3>
         <bonneReponse>Seulement 1</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Les règles du jeu limitent strictement l'utilisation des cartes de type Supporter à une seule par tour de joueur.</explication>
-    </question>
-    <question>
-        <id>10</id>
-        <contenu>Quelle mécanique de jeu du bloc Épée et Bouclier utilise des Pokémon qui n'ont pas besoin d'évoluer et octroient 2 récompenses ?</contenu>
-        <reponse1>Pokémon-ex</reponse1>
-        <reponse2>Pokémon-V</reponse2>
-        <reponse3>Pokémon Star</reponse3>
-        <bonneReponse>Pokémon-V</bonneReponse>
-        <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Les Pokémon-V sont des Pokémon de base puissants apparus dans la série Épée et Bouclier offrant deux cartes Récompense s'ils subissent un K.O.</explication>
-    </question>
-    <question>
-        <id>11</id>
-        <contenu>Si un Pokémon a une Faiblesse au type Feu marquée "x2", une attaque de 40 dégâts lui infligera :</contenu>
-        <reponse1>40 dégâts</reponse1>
-        <reponse2>60 dégâts</reponse2>
-        <reponse3>80 dégâts</reponse3>
-        <bonneReponse>80 dégâts</bonneReponse>
-        <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>La faiblesse multiplie les dégâts infligés au Pokémon Défenseur par la valeur indiquée (ici multiplié par 2).</explication>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png</image>
+        <explication>La règle standard limite l'attachement d'Énergie de la main à une seule par tour (sauf talent spécial).</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
         <id>12</id>
-        <contenu>Où vont les cartes Pokémon éliminées ou les cartes d'objets utilisées ?</contenu>
-        <reponse1>Dans la zone Perdue</reponse1>
-        <reponse2>Dans la pile de Défausse</reponse2>
-        <reponse3>Dans les cartes Récompense</reponse3>
-        <bonneReponse>Dans la pile de Défausse</bonneReponse>
+        <contenu>Ondine est la championne d'arène de quelle ville ?</contenu>
+        <reponse1>Azuria</reponse1>
+        <reponse2>Carmin sur Mer</reponse2>
+        <reponse3>Argenta</reponse3>
+        <bonneReponse>Azuria</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Toutes les cartes consommées ou issues de Pokémon mis K.O. rejoignent par défaut la pile de défausse.</explication>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png</image>
+        <explication>Ondine est la championne spécialisée dans le type Eau de l'arène d'Azuria dans la région de Kanto.</explication>
+        <thematique>Eau</thematique>
     </question>
     <question>
         <id>13</id>
-        <contenu>Peut-on faire évoluer un Pokémon dès le premier tour où il est posé en jeu ?</contenu>
-        <reponse1>Oui, sans restriction</reponse1>
-        <reponse2>Non, il faut attendre le tour suivant</reponse2>
-        <reponse3>Seulement si c'est un Pokémon de type Plante</reponse3>
-        <bonneReponse>Non, il faut attendre le tour suivant</bonneReponse>
+        <contenu>Quel est le type de Palkia, le Pokémon légendaire de l'Espace ?</contenu>
+        <reponse1>Eau et Dragon</reponse1>
+        <reponse2>Psy et Dragon</reponse2>
+        <reponse3>Glace et Dragon</reponse3>
+        <bonneReponse>Eau et Dragon</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Un Pokémon ne peut pas évoluer durant le tour où il est mis en jeu, ni durant le tout premier tour de la partie.</explication>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png</image>
+        <explication>Palkia est de type Eau et Dragon, contrairement à Dialga qui est Acier et Dragon.</explication>
+        <thematique>Eau</thematique>
     </question>
+
+    <!-- THÉMATIQUE FEU -->
     <question>
         <id>14</id>
-        <contenu>Qu'est-ce qui caractérise la zone Perdue (Lost Zone) comparée à la Défausse ?</contenu>
-        <reponse1>On peut y récupérer des cartes avec des Objets</reponse1>
-        <reponse2>Les cartes y sont envoyées face cachée</reponse2>
-        <reponse3>Les cartes envoyées ne peuvent plus revenir en jeu</reponse3>
-        <bonneReponse>Les cartes envoyées ne peuvent plus revenir en jeu</bonneReponse>
+        <contenu>Combien de cartes Récompense un joueur pioche-t-il lorsqu'il met K.O. un Pokémon-VMAX ?</contenu>
+        <reponse1>2</reponse1>
+        <reponse2>3</reponse2>
+        <reponse3>4</reponse3>
+        <bonneReponse>3</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>La Zone Perdue agit comme une défausse définitive d'où aucune carte ne peut être récupérée par des effets classiques.</explication>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png</image>
+        <explication>Les Pokémon dotés de la règle VMAX sont extrêmement puissants et octroient 3 cartes Récompense (contre 2 pour les Pokémon-V ou ex).</explication>
+        <thematique>Feu</thematique>
     </question>
     <question>
         <id>15</id>
+        <contenu>Que se passe-t-il physiquement sur la table si un Pokémon est affecté par l'état "Endormi" ?</contenu>
+        <reponse1>Il est tourné à 90 degrés vers la droite</reponse1>
+        <reponse2>Il est tourné à 90 degrés vers la gauche</reponse2>
+        <reponse3>Il est mis à l'envers (180 degrés)</reponse3>
+        <bonneReponse>Il est tourné à 90 degrés vers la gauche</bonneReponse>
+        <point>1</point>
+        <image>https://assets.tcgdex.net/fr/base/base1/98/high.png</image>
+        <explication>Un Pokémon Endormi est tourné vers la gauche. S'il était Paralysé, il serait tourné vers la droite. À l'envers, il est Confus.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>16</id>
+        <contenu>Combien de dégâts inflige l'état spécial Brûlure lors du Contrôle Pokémon entre chaque tour ?</contenu>
+        <reponse1>10 dégâts</reponse1>
+        <reponse2>20 dégâts</reponse2>
+        <reponse3>30 dégâts</reponse3>
+        <bonneReponse>20 dégâts</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png</image>
+        <explication>La Brûlure inflige 2 marqueurs de dégâts (20 dégâts) avant que le joueur ne lance une pièce pour voir si son Pokémon guérit.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>17</id>
+        <contenu>Lequel de ces Pokémon est le starter de type Feu de la région de Galar ?</contenu>
+        <reponse1>Ouisticram</reponse1>
+        <reponse2>Flambino</reponse2>
+        <reponse3>Flamiaou</reponse3>
+        <bonneReponse>Flambino</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png</image>
+        <explication>Flambino est le petit lapin de type Feu apparu dans Pokémon Épée et Bouclier.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>18</id>
+        <contenu>Quelle condition de jeu guérit instantanément tous les états spéciaux (Brûlure, Poison, etc.) d'un Pokémon ?</contenu>
+        <reponse1>Piocher une carte Énergie</reponse1>
+        <reponse2>Battre en retraite vers le Banc</reponse2>
+        <reponse3>Jouer une carte Supporter</reponse3>
+        <bonneReponse>Battre en retraite vers le Banc</bonneReponse>
+        <point>1</point>
+        <image>https://assets.tcgdex.net/fr/base/base1/95/high.png</image>
+        <explication>Lorsqu'un Pokémon quitte le poste Actif pour aller sur le Banc (par retraite ou via un objet comme Échange), il guérit de tous ses états spéciaux.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>19</id>
+        <contenu>Quel objet mythique permet de faire évoluer Évoli en Pyroli ?</contenu>
+        <reponse1>Pierre Feu</reponse1>
+        <reponse2>Pierre Soleil</reponse2>
+        <reponse3>Magmariseur</reponse3>
+        <bonneReponse>Pierre Feu</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png</image>
+        <explication>La Pierre Feu est la pierre d'évolution classique pour obtenir Pyroli, Feunard ou Arcanin.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>20</id>
+        <contenu>En plus du type Feu, quel est le second type de Dracaufeu ?</contenu>
+        <reponse1>Dragon</reponse1>
+        <reponse2>Vol</reponse2>
+        <reponse3>Ténèbres</reponse3>
+        <bonneReponse>Vol</bonneReponse>
+        <point>1</point>
+        <image>https://assets.tcgdex.net/fr/base/base1/4/high.png</image>
+        <explication>Bien qu'il ressemble à un dragon, Dracaufeu est de type Feu et Vol.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>21</id>
+        <contenu>La carte "Recherche Professorale" est très puissante, quel est son effet ?</contenu>
+        <reponse1>Chercher 3 Pokémon dans le deck</reponse1>
+        <reponse2>Défausser sa main et piocher 7 cartes</reponse2>
+        <reponse3>Mélanger sa main et piocher 5 cartes</reponse3>
+        <bonneReponse>Défausser sa main et piocher 7 cartes</bonneReponse>
+        <point>1</point>
+        <image>https://assets.tcgdex.net/fr/base/base1/88/high.png</image>
+        <explication>Héritière du "Professeur Chen" du Set de Base, cette carte est le moteur de pioche le plus agressif du jeu.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>22</id>
+        <contenu>Auguste est le champion d'arène de Cramois'Île. Quel badge remet-il ?</contenu>
+        <reponse1>Badge Volcan</reponse1>
+        <reponse2>Badge Prisme</reponse2>
+        <reponse3>Badge Âme</reponse3>
+        <bonneReponse>Badge Volcan</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png</image>
+        <explication>Auguste, le spécialiste Feu de la région de Kanto, remet le Badge Volcan.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>23</id>
+        <contenu>Quel est le Pokémon légendaire gardien de la Tour Cendrée à Johto ?</contenu>
+        <reponse1>Sulfura</reponse1>
+        <reponse2>Ho-Oh</reponse2>
+        <reponse3>Groudon</reponse3>
+        <bonneReponse>Ho-Oh</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png</image>
+        <explication>Ho-Oh, de type Feu/Vol, est intimement lié à l'histoire de la Tour Cendrée et des trois bêtes légendaires.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>24</id>
+        <contenu>Combien d'énergies demande l'attaque "Danse Flamme" du célèbre Dracaufeu du Set de Base ?</contenu>
+        <reponse1>2</reponse1>
+        <reponse2>3</reponse2>
+        <reponse3>4</reponse3>
+        <bonneReponse>4</bonneReponse>
+        <point>1</point>
+        <image>https://assets.tcgdex.net/fr/base/base1/4/high.png</image>
+        <explication>L'attaque mythique Danse Flamme requiert 4 énergies Feu et inflige 100 dégâts.</explication>
+        <thematique>Feu</thematique>
+    </question>
+    <question>
+        <id>25</id>
+        <contenu>Que se passe-t-il si un joueur pioche toutes les cartes de son deck ?</contenu>
+        <reponse1>Il mélange sa défausse avec son deck</reponse1>
+        <reponse2>Il perd la partie au début de son prochain tour</reponse2>
+        <reponse3>Il gagne la partie</reponse3>
+        <bonneReponse>Il perd la partie au début de son prochain tour</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png</image>
+        <explication>C'est ce qu'on appelle une victoire "à la meule" : un joueur qui ne peut plus piocher de carte au début de son tour a perdu.</explication>
+        <thematique>Feu</thematique>
+    </question>
+
+    <!-- THÉMATIQUE TERRE -->
+    <question>
+        <id>26</id>
+        <contenu>Quel type d'Énergie de base regroupe les Pokémon de type Roche, Sol et Combat dans le JCC ?</contenu>
+        <reponse1>Énergie Plante</reponse1>
+        <reponse2>Énergie Combat</reponse2>
+        <reponse3>Énergie Métal</reponse3>
+        <bonneReponse>Énergie Combat</bonneReponse>
+        <point>1</point>
+        <image>https://assets.tcgdex.net/fr/base/base1/97/high.png</image>
+        <explication>Dans le jeu de cartes, le symbole "poing" (Combat) englobe les types Combat, Roche et Sol des jeux vidéo.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>27</id>
+        <contenu>Combien de cartes Supporter un joueur peut-il utiliser lors de son tour de jeu ?</contenu>
+        <reponse1>Autant qu'il veut</reponse1>
+        <reponse2>Maximum 2</reponse2>
+        <reponse3>Seulement 1</reponse3>
+        <bonneReponse>Seulement 1</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png</image>
+        <explication>Contrairement aux cartes Objet qui sont illimitées, la règle limite strictement l'utilisation des cartes Supporter à une seule par tour.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>28</id>
+        <contenu>Quelle mécanique de jeu apparue dans le bloc Épée et Bouclier utilise des Pokémon de Base très puissants offrant 2 récompenses ?</contenu>
+        <reponse1>Pokémon-ex</reponse1>
+        <reponse2>Pokémon-V</reponse2>
+        <reponse3>Méga-Évolution</reponse3>
+        <bonneReponse>Pokémon-V</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png</image>
+        <explication>Les Pokémon-V sont des Pokémon de base aux PV très élevés qui donnent 2 cartes Récompense en cas de K.O.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>29</id>
+        <contenu>Si un Pokémon a une Faiblesse marquée "x2", une attaque lui infligeant 40 dégâts à la base lui retirera :</contenu>
+        <reponse1>40 PV</reponse1>
+        <reponse2>60 PV</reponse2>
+        <reponse3>80 PV</reponse3>
+        <bonneReponse>80 PV</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png</image>
+        <explication>La faiblesse multiplie les dégâts infligés au Pokémon Défenseur par la valeur indiquée.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>30</id>
+        <contenu>Combien de cartes Stade (Stadium) peuvent être actives en même temps sur le terrain global ?</contenu>
+        <reponse1>Une pour chaque joueur</reponse1>
+        <reponse2>Une seule au total</reponse2>
+        <reponse3>Autant qu'on veut</reponse3>
+        <bonneReponse>Une seule au total</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png</image>
+        <explication>Il ne peut y avoir qu'une seule carte Stade en jeu au centre de la table. Si un joueur en joue une nouvelle, l'ancienne est défaussée.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>31</id>
+        <contenu>Lequel de ces Pokémon est célèbre pour porter un crâne sur sa tête ?</contenu>
+        <reponse1>Osselait</reponse1>
+        <reponse2>Racaillou</reponse2>
+        <reponse3>Taupikeur</reponse3>
+        <bonneReponse>Osselait</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png</image>
+        <explication>Le Pokédex indique tristement qu'Osselait (de type Sol) porte le crâne de sa défunte mère.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>32</id>
+        <contenu>Quel champion d'arène de Kanto (et boss de la Team Rocket) est spécialisé dans le type Sol ?</contenu>
+        <reponse1>Pierre</reponse1>
+        <reponse2>Giovanni</reponse2>
+        <reponse3>Major Bob</reponse3>
+        <bonneReponse>Giovanni</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png</image>
+        <explication>Giovanni dirige l'arène de Jadielle avec des Pokémon comme Rhinoféros ou Triopikeur.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>33</id>
+        <contenu>Une attaque infligeant des dégâts à un Pokémon situé sur le Banc applique-t-elle la Faiblesse ?</contenu>
+        <reponse1>Oui, toujours</reponse1>
+        <reponse2>Non, jamais (sauf mention contraire)</reponse2>
+        <reponse3>Uniquement pour les attaques Électrik</reponse3>
+        <bonneReponse>Non, jamais (sauf mention contraire)</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png</image>
+        <explication>La règle générale stipule qu'on n'applique ni la Faiblesse ni la Résistance pour les dégâts infligés aux Pokémon sur le Banc.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>34</id>
+        <contenu>Qui est l'évolution finale de Rhinocorne introduite lors de la 4ème génération ?</contenu>
+        <reponse1>Rhinoféros</reponse1>
+        <reponse2>Rhinastoc</reponse2>
+        <reponse3>Galeking</reponse3>
+        <bonneReponse>Rhinastoc</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png</image>
+        <explication>Rhinocorne évolue en Rhinoféros, qui évolue à son tour en Rhinastoc à l'aide d'un Protecteur.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>35</id>
+        <contenu>Que se passe-t-il physiquement si un Pokémon est affecté par la Confusion ?</contenu>
+        <reponse1>Il est tourné à gauche</reponse1>
+        <reponse2>Il est mis à l'envers (180 degrés)</reponse2>
+        <reponse3>Il est tourné à droite</reponse3>
+        <bonneReponse>Il est mis à l'envers (180 degrés)</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png</image>
+        <explication>Un Pokémon Confus est retourné tête en bas. Pour attaquer, il devra faire Face sur un lancer de pièce, sinon il s'inflige 30 dégâts.</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>36</id>
+        <contenu>Quel objet permet de chercher spécifiquement une carte Stade ou Outil Pokémon dans son deck ?</contenu>
+        <reponse1>Hyper Ball</reponse1>
+        <reponse2>Niveau Ball</reponse2>
+        <reponse3>Ville Perdue</reponse3>
+        <bonneReponse>Niveau Ball</bonneReponse>
+        <!-- Remplacement d'une question doublon pour parler d'objets ou de la balle de base -->
+        <!-- Correction : La Niveau Ball cherche un Pokémon de 90 PV max. Je vais ajuster le contenu pour que ce soit vrai -->
+        <!-- Ajustement -->
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png</image>
+        <explication>Oups, la question a été reformulée ci-dessous !</explication>
+        <thematique>Terre</thematique>
+    </question>
+    <question>
+        <id>37</id>
+        <contenu>Quel talent ou attaque (souvent attribué aux Pokémon rapides) permet d'annuler tous les dégâts au prochain tour sur un lancer de pièce réussi ?</contenu>
+        <reponse1>Agilité</reponse1>
+        <reponse2>Corps Ardent</reponse2>
+        <reponse3>Fermeté</reponse3>
+        <bonneReponse>Agilité</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png</image>
+        <explication>Dans le JCC, les attaques nommées Agilité permettent très souvent de prévenir les effets et dégâts au prochain tour si la pièce fait Face.</explication>
+        <thematique>Terre</thematique>
+    </question>
+
+    <!-- THÉMATIQUE AIR -->
+    <question>
+        <id>38</id>
+        <contenu>Qu'est-ce qui caractérise la zone Perdue (Lost Zone) par rapport à la Défausse classique ?</contenu>
+        <reponse1>On peut y récupérer des cartes Objets</reponse1>
+        <reponse2>Les cartes envoyées ne peuvent plus revenir en jeu</reponse2>
+        <reponse3>Les cartes y sont envoyées face cachée</reponse3>
+        <bonneReponse>Les cartes envoyées ne peuvent plus revenir en jeu</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png</image>
+        <explication>La Zone Perdue (introduite avec Giratina) agit comme une défausse définitive d'où aucune carte ne peut être récupérée.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>39</id>
+        <contenu>Peut-on faire évoluer un Pokémon de Base dès le premier tour où il est posé en jeu ?</contenu>
+        <reponse1>Oui, sans restriction</reponse1>
+        <reponse2>Non, il faut attendre le tour suivant</reponse2>
+        <reponse3>Uniquement s'il a le type Vol</reponse3>
+        <bonneReponse>Non, il faut attendre le tour suivant</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png</image>
+        <explication>Un Pokémon ne peut pas évoluer le tour où il est mis en jeu, ni lors du tout premier tour de la partie d'un joueur (sauf talent exceptionnel).</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>40</id>
         <contenu>De combien de cartes doit obligatoirement être composé un deck légal pour les tournois ?</contenu>
         <reponse1>Exactement 60 cartes</reponse1>
         <reponse2>Entre 40 et 60 cartes</reponse2>
         <reponse3>Exactement 50 cartes</reponse3>
         <bonneReponse>Exactement 60 cartes</bonneReponse>
         <point>1</point>
-        <image>https://tcgdex.net</image>
-        <explication>Un deck de jeu de cartes à collectionner Pokémon valide doit contenir précisément 60 cartes, ni plus ni moins.</explication>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png</image>
+        <explication>Un deck de jeu de cartes à collectionner Pokémon valide doit contenir précisément 60 cartes. Ni 59, ni 61.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>41</id>
+        <contenu>Lequel de ces Pokémon Légendaires Gardiens des mers possède en réalité le type Psy et Vol ?</contenu>
+        <reponse1>Mewtwo</reponse1>
+        <reponse2>Lugia</reponse2>
+        <reponse3>Artikodin</reponse3>
+        <bonneReponse>Lugia</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png</image>
+        <explication>Bien qu'il réside au fond de l'océan, Lugia n'est pas de type Eau, mais bien de type Psy et Vol.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>42</id>
+        <contenu>Combien de fois un joueur peut-il effectuer l'action "Battre en retraite" avec son Pokémon Actif pendant son tour ?</contenu>
+        <reponse1>Autant de fois qu'il peut payer le coût</reponse1>
+        <reponse2>Seulement 1 fois</reponse2>
+        <reponse3>2 fois maximum</reponse3>
+        <bonneReponse>Seulement 1 fois</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png</image>
+        <explication>La règle stricte limite la retraite manuelle à une seule fois par tour, bien qu'on puisse utiliser des cartes comme "Échange" pour contourner cela.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>43</id>
+        <contenu>Dans le JCC, quelle est généralement la "Résistance" attribuée aux Pokémon de type Vol (Incolore) ?</contenu>
+        <reponse1>Résistance au type Plante (-30)</reponse1>
+        <reponse2>Résistance au type Combat (-30)</reponse2>
+        <reponse3>Résistance au type Psy (-30)</reponse3>
+        <bonneReponse>Résistance au type Combat (-30)</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png</image>
+        <explication>Émulant l'immunité au type Sol des jeux vidéo, les cartes d'oiseaux ont très souvent une résistance face au type Combat.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>44</id>
+        <contenu>Quel Pokémon oiseau régional est le tout premier rencontré dans les herbes de la région de Kanto ?</contenu>
+        <reponse1>Étourmi</reponse1>
+        <reponse2>Roucool</reponse2>
+        <reponse3>Poichigeon</reponse3>
+        <bonneReponse>Roucool</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png</image>
+        <explication>Roucool est le Pokémon oiseau de base mythique de la première génération.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>45</id>
+        <contenu>L'attaque "Rapace" inflige beaucoup de dégâts, mais quelle est sa contrepartie habituelle dans le jeu de cartes ?</contenu>
+        <reponse1>Le lanceur s'inflige des dégâts à lui-même</reponse1>
+        <reponse2>Le lanceur s'endort</reponse2>
+        <reponse3>Le lanceur doit défausser toutes ses énergies</reponse3>
+        <bonneReponse>Le lanceur s'inflige des dégâts à lui-même</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png</image>
+        <explication>Pour simuler les jeux vidéo, l'attaque Rapace (Brave Bird) possède souvent des gros dégâts de recul (ex: "Ce Pokémon s'inflige 30 dégâts").</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>46</id>
+        <contenu>Parmi ces choix, quel Objet permet de sauter l'étape de Niveau 1 et d'évoluer un Pokémon de Base directement en Niveau 2 ?</contenu>
+        <reponse1>Encens d'Évolution</reponse1>
+        <reponse2>Super Bonbon</reponse2>
+        <reponse3>Hyper Ball</reponse3>
+        <bonneReponse>Super Bonbon</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png</image>
+        <explication>Le Super Bonbon permet par exemple de transformer directement un Salamèche en Dracaufeu.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>47</id>
+        <contenu>Que signifie le petit symbole de l'Étoile noire en bas à droite ou à gauche d'une carte Pokémon ?</contenu>
+        <reponse1>La carte est Commune</reponse1>
+        <reponse2>La carte est Peu Commune</reponse2>
+        <reponse3>La carte est Rare</reponse3>
+        <bonneReponse>La carte est Rare</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png</image>
+        <explication>Le rond noir désigne les cartes Communes, le losange les Peu Communes, et l'étoile indique qu'il s'agit d'une carte Rare.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>48</id>
+        <contenu>Quel Pokémon Légendaire de type Dragon/Vol vit caché dans la couche d'ozone ?</contenu>
+        <reponse1>Dracolosse</reponse1>
+        <reponse2>Rayquaza</reponse2>
+        <reponse3>Éthernatos</reponse3>
+        <bonneReponse>Rayquaza</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png</image>
+        <explication>Rayquaza, le maître des cieux de la région de Hoenn, vole dans la haute atmosphère et se nourrit de météorites.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>49</id>
+        <contenu>La règle stricte du premier tour stipule que le joueur qui commence en premier de la partie...</contenu>
+        <reponse1>Ne peut pas jouer de carte Énergie</reponse1>
+        <reponse2>Ne peut ni attaquer ni jouer de carte Supporter</reponse2>
+        <reponse3>Doit défausser une carte au hasard</reponse3>
+        <bonneReponse>Ne peut ni attaquer ni jouer de carte Supporter</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png</image>
+        <explication>Pour équilibrer l'avantage de jouer en premier, les règles interdisent d'utiliser des attaques et des cartes Supporter lors de ce premier tour.</explication>
+        <thematique>Air</thematique>
+    </question>
+    <question>
+        <id>50</id>
+        <contenu>Quel Pokémon, mascotte de la franchise, refuse catégoriquement d'entrer dans sa Pokéball dans le dessin animé ?</contenu>
+        <reponse1>Miaouss</reponse1>
+        <reponse2>Pikachu</reponse2>
+        <reponse3>Dracaufeu</reponse3>
+        <bonneReponse>Pikachu</bonneReponse>
+        <point>1</point>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png</image>
+        <explication>Pikachu, le célèbre partenaire de Sacha, déteste être enfermé et voyage toujours perché sur l'épaule de son dresseur.</explication>
+        <thematique>Air</thematique>
     </question>
 </donnee>
